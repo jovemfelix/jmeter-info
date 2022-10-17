@@ -69,7 +69,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="host" elementType="Argument">
               <stringProp name="Argument.name">host</stringProp>
-              <stringProp name="Argument.value">admin-rhsso.prd.riachuelo.net</stringProp>
+              <stringProp name="Argument.value">admin-rhsso.example.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="port" elementType="Argument">
@@ -79,7 +79,7 @@
             </elementProp>
             <elementProp name="sso_realm_name" elementType="Argument">
               <stringProp name="Argument.name">sso_realm_name</stringProp>
-              <stringProp name="Argument.value">rchlo-test-rh</stringProp>
+              <stringProp name="Argument.value">demo-test-rh</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="client_id" elementType="Argument">
